@@ -1,0 +1,632 @@
+-- Changelog --
+
+-- 07/24/14 --
+
+-- Tinker Construct --
+	-Alumite Hammer Head
+	-Ardite Hammer Head
+	-Blue Slime Hammer Head
+	-Bone Hammer Head
+	-Bronze Hammer Head
+	-Cactus Hammer Head
+	-Copper Hammer Head
+	-Flint Hammer Head
+	-Iron Hammer Head
+	-Manyullyn Hammer Head
+	-Netherrack Hammer Head
+	-Obsidian Hammer Head
+	-Paper Hammer Head
+	-Pig Iron Hammer Head
+	-Slime Hammer Head
+	-Steel Hammer Head
+	-Stone Hammer Head
+	-Thaumium Hammer Head
+	-Wood Hammer Head
+	-Alumite Hammer Handle
+	-Blue Slime Hammer Handle
+	-Bone Hammer Handle
+	-Bronze Hammer Handle
+	-Cactus Hammer Handle
+	-Cobalt Hammer Handle
+	-Copper Hammer Handle
+	-Flint Hammer Handle
+	-Iron Hammer Handle
+	-Manyullyn Hammer Handle
+	-Netherrack Hammer Handle
+	-Obsidian Hammer Handle
+	-Paper Hammer Handle
+	-Pig Iron Hammer Head
+	-Slime Hammer Head
+	-Steel Hammer Head
+	-Stone Hammer Head
+	-Thaumium Hammer Head
+	-Wood Hammer Head
+	-Diamond Hammer Effect
+	-Emerald Hammer Effect
+	-Auto-Repair Hammer Effect
+	-Auto-Smelt Hammer Effect
+	-Sharpness Hammer Effect
+	-Fiery Hammer Effect
+	-Necrotic Hammer Effect
+	-Silky Hammer Effect
+	-Reinforced Hammer Effect
+	-Piston Hammer Effect
+	-Beheading Hammer Effect
+	-Bane of Arthropods Hammer Effect
+	-Fancy Diamond Brick
+	-Fancy Redstone Brick
+	-Fancy Lapis Brick
+	-Fancy Gold Brick
+	-Fancy Iron Brick
+	-Fancy Slime Brick
+	-Fancy Sandstone Brick
+	
+-- Thermal Expansion --
+	-Enderium Dust
+	-Enderium Ingot
+	-Enderium Block
+	-Tinker's Alloy Ingot
+	-Tinker's Alloy Block
+	-Autonomous Activator
+	-Terrain Smasher
+	-Nullifier
+	-Machinist's Workbench
+	-Leadstone Energy Cell (Remade)
+	-Hardened Energy Cell
+	-Redstone Energy Cell
+	-Resonant Energy Cell
+	-Creative Energy Cell
+	-Leadstone Energy Conduit
+	-Hardened Energy Conduit
+	-Redstone Energy Conduit
+	-Opaque Fluiduct
+	-Fluiduct
+	-Opaque Itemduct
+	-Itemduct
+	-Opaque Impulse Itemduct
+	-Impusle Itemduct
+	-Strongbox
+	-Hardened Strongbox
+	-Reinforced Strongbox
+	-Resonant Strongbox
+	-Creative Strongbox
+	-Copper Nugget
+	-Tin Nugget
+	-Silver Nugget
+	-Ferrous Nugget
+	-Shiny Nugget
+	-Electrum Nugget
+	-Invar Nugget
+	-Tinker's Alloy Nugget
+	-Enderium Nugget
+	-Sulfur
+	-Niter
+	-Leadstone Flux Capacitor
+	-Hardened Flux Capacitor
+	-Redstone Flux Capacitor
+	-Resonant Flux Capacitor
+	-Creative Flux Capacitor
+	-Tuberous Flux Capacitor
+	-Pulverized Coal
+	-Invar Helmet
+	-Invar Armor
+	-Invar Leggings
+	-Invar Boots
+	-Pyrotheum Dust
+	-Cryotheum Dust
+	
+-- Iron Chest --
+	-Dirt Chest 9000!
+	
+-- Thaumcraft -- 
+	-Arcane Lamp
+	-Lamp Of Growth
+	-Lamp Of Fertility
+	-Infernal Furnace
+	
+-- Mekanism --
+	-Osmium Ore
+	-Bronze Block
+	-Copper Block
+	-Steel Block
+	-Tin Block
+	-Bronze Dust
+	-Copper Dust
+	-Diamond Dust
+	-Gold Dust
+	-Iron Dust
+	-Lead Dust
+	-Obsidian Dust
+	-Osmium Dust
+	-Silver Dust
+	-Sulfur Dust
+	-Tin Dust
+	-Bronze Ingot
+	-Copper Ingot
+	-Obsidian Ingot
+	-Osmium Ingot
+	-Steel Ingot
+	-Tin Ingot
+	
+-- RailCraft --
+	-Steel Block
+	
+-- General --
+	-FTB pack image
+	
+
+-- 05/16/14 --
+-- Industrial Craft 2 --
+	-BatBox
+	-MFE
+	-MFSU
+	-LV-Transformer
+	-MV-Transformer
+	-HV-Transformer
+	-EV-Transformer
+	-CESU
+	-Advanced Machine Casing (Redone)
+	
+-- Magical Crops --
+	-Essence Dust
+	-Essence Ore
+	-Nether Essence Ore
+	
+-- GeoStrata --
+	-Basalt
+	-Basalt Cobblestone
+	-Basalt Bricks
+	-Shale
+	-Shale Cobblestone
+	-Shale Bricks
+	-Sandstone
+	-Sandstone Cobblestone
+	-Sandstone Bricks
+	-Gneiss
+	-Gneiss Cobblestone
+	-Gneiss Bricks
+	-Quartz
+	-Quartz Cobblestone
+	-Quartz Bricks
+	-Marble
+	-Marble Cobblestone
+	-Marble Bricks
+	-Granite
+	-Granite Cobblestone
+	-Granite Bricks
+	
+-- Applied Energistics --
+	-Grind Stone
+	-Wooden Crank
+	
+-- Tinker Construct --
+	-Birch Stencil Table
+	-Casting Basin
+	-Casting Table
+	-Cobalt Hammer Head
+	-Ardite Hammer Handle
+	-Redstone Hammer Effect
+	-Lapis Hammer Effect
+	-Crafting Station
+	
+-- Project Red --
+	-Peridot
+	-Ruby
+	-Sapphire
+	-Peridot Sword
+	-Ruby Sword
+	-Sapphire Sword
+	-Peridot Axe
+	-Ruby Axe
+	-Sapphire Axe
+	-Peridot Pickaxe
+	-Ruby Pickaxe
+	-Sapphire Pickaxe
+	
+-- 01/23/14 --
+-- Forestry --
+	-Apatite Ore
+	-Apatite
+	-Ethanol Bucket
+	-Biomass Bucket
+
+-- RailCraft --
+	-Sulfur Ore
+	-Sulfur
+	-Saltpeter Ore
+	-Saltpeter
+	
+-- Thermal Expansion --
+	-Fixed Ferrous Ore (1.6)
+	
+-- Project Red --
+	-Ruby Ore
+	-Sapphire Ore
+	-Peridot Ore
+
+-- Factorization --
+	-Dark Iron Ore
+	-Dark Iron Ingot
+	-Dark Iron Block
+	
+-- Nether Ore --
+	-Nether Coal Ore
+	-Nether Diamond Ore
+	-Nether Gold Ore
+	-Nether Iron Ore
+	-Nether Lapis Ore
+	-Nether Redstone Ore
+	-Nether Copper Ore
+	-Nether Tin Ore
+	-Nether Emerald Ore
+	-Nether Sapphire Ore
+	-Nether Platinum Ore
+	-Nether Ferrous Ore
+	-Nether Pig Iron Ore
+	-Nether Iridium Ore
+	-Nether Osmium Ore
+	-Nether Lead Ore
+	-Nether Uranium Ore
+	-Nether Nikolite Ore
+	-Nether Ruby Ore
+	-Nether Peridot Ore
+	
+-- Tinker's Construct --
+	-Molten Iron Bucket
+	-Molten Gold Bucket
+	-Molten Copper Bucket
+	-Molten Tin Bucket
+	-Molten Aluminum Bucket
+	-Molten Cobalt Bucket
+	-Molten Ardite Bucket
+	-Molten Bronze Bucket
+	-Molten Aluminum Brass Bucket
+	-Molten Manyullyn Bucket
+	-Molten Alumite Bucket
+	-Molten Obsidian Bucket
+	-Molten Steel Bucket
+	-Molten Glass Bucket
+	-Seared Stone Bucket
+	-Liquified Emerald Bucket
+	-Bucket o' Blood
+	-Molten Nickel Bucket
+	-Molten Lead Bucket
+	-Molten Silver Bucket
+	-Molten Shiny Bucket
+	-Molten Invar Bucket
+	-Molten Electrum Bucket
+	-Liquified Ender Bucket
+	-Liquid Slime Bucket
+	-Sticky Glue Bucket
+	-Molten Pig Iron Bucket
+	-Diamond Pickaxe Modifier
+	-Emerald Pickaxe Modifier
+	-Redstone Pickaxe Modifier
+	
+-- Mystcraft --
+	-Descriptive Book
+	-Notebook
+	-Unlinked Link Book
+	-Linking Book
+	
+-- Applied Energistics --
+	-Fixed ME Crafting Terminal (1.6)
+	-Fixed ME Access Terminal
+	-ME Crafting Monitor
+
+--01/06/14--
+-- Tinker's Construct --
+	-Iron Gravel Ore
+	-Gold Gravel Ore
+	-Aluminium Gravel Ore
+	-Tin Gravel Ore
+	-Cobalt Gravel Ore
+	
+-- BuildCraft --
+	-Redstone Engine
+	-Stirling Engine
+	-Combustion Engine
+	-Oil Bucket
+	-Fuel Bucket
+	-Liquid Oil
+	-Liquid Fuel
+	
+-- Thermal Expansion --
+	-Fixed Destabilized Redstone Bucket (1.6)
+	-Fixed Energized Glowstone Bucket (1.6)
+	-Fixed Resonant Ender Bucket (1.6)
+	
+-- Minecraft --
+	-Fixed Spider (1.6)
+	-Fixed Enderman (1.6)
+
+-- 01/01/14 --
+-- BuildCraft --
+	-Quarry
+	-Mining Well
+	-Pump
+	-Land Mark
+	-Path Marker
+	-Filler
+	-Builder
+
+-- Extra Utilities --
+	-Colored Wood Planks
+	-Colored Bricks
+	
+-- RailCraft --
+	-Sandy Brick
+	-Sandy Block
+	-Fitted Sandy Stone
+	-Ornate Sandy Stone
+	-Etched Sandy Stone
+	-Coke Oven
+	-Blast Furnace
+	-Rolling Machine
+	
+-- Tinker's Construct --
+	-Block of Aluminium Brass
+	-Block of Ardite
+	-Block of Cobalt
+	-Block of Manyullyn
+	-Block of Aluminium
+	-Block of Steel
+	-Block of Bronze
+	-Block of Alumite
+	-Aluminium Brass Ingot
+	-Ardite Ingot
+	-Manyullyn Ingot
+	-Aluminium Ingot
+	-Bronze Ingot
+	-Seared Brick
+	-Obsidian Ingot
+	-Tool Forge
+	-Liquid Cobalt
+	-Alumite Pickaxe Parts
+	-Wood Pickaxe Parts
+	-Stone Pickaxe Parts
+	-Iron Pickaxe Parts
+	-Flint Pickaxe Parts
+	-Obsidian Pickaxe Parts
+	-Netherrack Pickaxe Parts
+	-Manyullyn Pickaxe Parts
+	-Ardite Pickaxe Parts
+
+-- Thermal Expantion --
+	-Fixed Steam Dynamo (1.6)
+	-Fixed Magmatic Dynamo (1.6)
+	-Fixed Energetic Infuser (1.6)
+	
+-- Biomes O Plenty --
+	-Fixed Tiny Cactus (1.6)
+
+--29/11/13
+- DartCraft -
+	-Force Pack
+	-Ender Pack
+	-Force Bucket
+	
+- Forestry -
+	-Acacia Tree+Planks
+	-Balsa Tree+Planks
+	-Baobab Tree+Planks
+	-Cherry Tree+Planks
+	-Chestnut Tree+Planks
+	-Citrus Tree+Planks
+	-Ebony Tree+Planks
+	-Greenheart Tree+Planks
+	-Kapok Tree+Planks
+	-Larch Tree+Planks
+	-Lime Tree+Planks
+	-Mahoe Tree+Planks
+	-Mahogany Tree+Planks
+	-Maple Tree+Planks
+	-Palm Tree+Planks
+	-Papaya Tree+Planks
+	-Pine Tree+Planks
+	-Plum Tree+Planks
+	-Poplar Tree+Planks
+	-Sequoia Tree+Planks
+	-Teak Tree+Planks
+	-Walnut Tree+Planks
+	-Wenge Tree+Planks
+	-Willow Tree+Planks
+	-Farm Block
+	-Farm Gear
+	-Farm Control
+	-Farm Hatch
+	-Farm Valve
+	
+- Natura -
+	-Eucalyptus Tree
+	-Eucalyptus Stick
+	-Eucalyptus Sapling
+	-Eucalyptus Planks
+	-Eucalyptus Bookshelf
+	-Eucalyptus Door
+	-Eucalyptus Trapdoor
+	-Eucalyptus Workbench
+	-Hopseed Tree
+	-Hopseed Stick
+	-Hopseed Sapling
+	-Hopseed Planks
+	-Hopseed Bookshelf
+	-Hopseed Door
+	-Hopseed Trapdoor
+	-Hopseed Workbench
+	
+-- Factorization --
+	-Barrel
+
+-- 09/07/13 --
+- DartCraft -
+	-Power Ore
+	-Nether Ore
+	-Force Bricks (All colors)
+	-Force Stairs (All colors)
+	-Force Slabs (All colors)
+	-Force Tree
+	-Force Planks
+	-Force Stairs
+	-Force Slabs
+	-Force Gems
+	-Force Ingot
+	-Golden Power Source
+	-Force Infuser
+	-Force Engine
+	-Force Shard
+	-Clipboard
+	-Force Cap (Item)
+	-Force Boots (Item)
+	-Force Pants (Item)
+	-Force Tunic (Item)
+	-Force Arrow
+	-Force Sword
+	-Force Axe
+	-Force Pickaxe
+	-Force Shovel
+	-Force Bow
+	-Force Shears
+	-Force Rod
+	
+-- 08/30/13 --
+- Minefactory Reloaded -
+	-Veterinary Station
+	-Fertilizer
+	-Composter
+	-Fisher
+	-Planter
+	-Oil Fabricator
+	-Lava Fabricator
+	-Road
+	-Road Light
+	-Stained Glass (All the pretty colors!)
+	-Stained Glass Pane
+	-Rubber Wood/Tree/Sapling
+	-Unifier
+	-Laser Drill
+	-Laser Drill Precharger
+	-Harvester
+	-Rancher
+	-Ice Bricks
+	-Large Ice Bricks
+	-Glowstone Bricks
+	-Large Glowstone Bricks
+	-Lapis Bricks
+	-Large Lapis Bricks
+	-Obsidian Bricks
+	-Large Obsedian Bricks
+	-Snow Bricks
+	-Large Snow Bricks
+	-Small Blackstone Bricks
+	-Large Blackstone Bricks
+	-Paved Blackstone
+	-Smooth Blackstone
+	-Cobble Blackstone
+	-Small Whitestone Bricks
+	-Large Whitestone Bricks
+	-Paved Stone Bricks
+	-Cobble Whitestone
+	-Whistone Gravel
+	-Paved Whitestone
+	-Smooth Whitestone
+	-Programmable Rednet Controller Housing
+
+-- 08/06/13 --
+- Thaumcraft -
+	-Warded Stone Block
+	
+- Forestry -
+	-Clockwork Engine
+	-Biogas Engine
+	-Peat Engine
+	-Electric Engine
+	-Apiarist's Chest
+	
+- MineFactory Reloaded -
+	-Mob Grinder
+	-Grinder
+	-Breeder
+	-Sewer
+	-Weather Collector
+	-Item Collector
+	-Auto Spawner
+	-Bio Reactor
+	-Slaughterhouse
+	-Item Router
+	
+- Bibliocraft -
+	-Entire mod done by CuddleWoozle
+	
+- Biomes-O-Plenty -
+	-A bunch of stuff courtesy of Thewafflier
+
+-- 07/28/13 --
+
+- Industrial Craft 2 -
+	-Generator
+	-Goethermal Generator
+	-Compressor
+	-Solar Panel
+
+- Iron Chest -
+	-Diamond Chest
+	-Copper Chest
+	-Silver Chest
+	-Crystal Chest
+	-Obsidian Chest
+	
+- Thaumcraft -
+	-Worktable
+	-Table
+	-Research Table
+	-Thaumium Ingot
+	-Shards
+	-Crucible
+	-Hungry Chest
+	-Arcane Stone Block
+	-Greatwood Tree and Sapling
+	-Silverwood Tree and Sapling
+	-Arcane Wood Block
+
+-- 07/22/13 --
+
+- Thermal Expansion -
+	-Steam Engine
+	-Magmatic Engine
+	-Copper Block
+	-Electrum Block
+	-Invar Block
+	-Lead Block
+	-Ferrous Block
+	-Shiny Metal Block
+	-Silver Block
+	-Tin Block
+	-Portable Tank
+	-Energy Conduit
+	-Liquiduct
+	-Hardened Glass
+	-Pulverised Obsidian
+	-Brass Blend
+	-Bronze Blend
+	-Electrum Blend
+	-Invar Blend
+	-Glowstone Illuminator
+	-Resonant Ender Bucket
+	-Destabilized Redstone Bucket
+	-Energized Glowstone Bucket
+	-Liquid Tesseract
+	-Item Tesseract
+	-Energy Tesseract
+	-Machine Frame
+	
+- IndustrialCraft 2 -
+	-Machine Block
+	-Advanced Machine Block
+	-Iron Furnace
+	-Induction Furnace
+	-Electric Furnace
+	-Macerator
+	-Extractor
+	
+	
